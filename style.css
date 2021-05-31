@@ -64,3 +64,6 @@ iframe{
     margin: 0px;
     padding: 0px;
 }
+#contacts-1 h3{
+    display : inline-block;
+}
